@@ -1,1 +1,27 @@
+/* Utility classes for background, margin, display, and alignment */
+
+/* Background color utility */
+.bg-red {
+  background: red;
+}
+
+/* Centering the container */
+.mx-auto {
+  margin: auto;
+}
+
+/* Flexbox utility */
+.flex {
+  display: flex;
+}
+
+/* Flex direction column */
+.flex-col {
+  flex-direction: column;
+}
+
+/* Centering items along the cross-axis */
+.items-center {
+  align-items: center;
+}
 
